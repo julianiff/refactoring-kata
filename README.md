@@ -1,4 +1,6 @@
-# 🔧 TypeScript Refactoring Katas (AI GENERATED README AND KATAS)
+# 🔧 TypeScript Refactoring Katas
+
+(AI generated readme and katas)
 
 A hands-on collection of code exercises for practicing Martin Fowler's refactoring techniques. Each kata presents real-world code scenarios that benefit from systematic refactoring.
 
